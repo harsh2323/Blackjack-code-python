@@ -1,11 +1,9 @@
-Description
+# DESCRIPTION
 
-This was my first individual project that I worked on for my freshmen year.
-This is a basic Python code which allows you to play blackjack with some minor rules.
+This is the first individual project that I worked on in my freshemen year of college.
+This program will allow you to play blackjack with basic rules 
 
+HOW TO PLAY
 
-How To Use
-
-Make sure you have an IDE installed, preferably PyCharm or basic Python IDE.
-Paste the code and run it.
-
+Make sure you have a Python IDE installed, preferably PyCharm or Python IDE.
+Copy and paste the code and run it!
